@@ -1,0 +1,4 @@
+encryptionsalt: v1:8y9hTIQEA+E=:v1:YKQDAsJEJudcMoWw:i5Nvwb8t0CJT86kN6d9cPJ6aa0yZxw==
+config:
+  aws:profile: igorserko
+  aws:region: eu-west-1
